@@ -10,7 +10,7 @@ This is a mini end-to-end decision-support tool for healthcare data. Users can u
 
 * Perform automated data cleaning & preprocessing
 * Generate exploratory data analysis (EDA) visuals
-* Use AI (GPT-3.5) to produce intelligent insights
+* Use AI (Gemini) to produce intelligent insights
 * Present results in a modern, responsive UI
 
 ---
