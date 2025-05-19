@@ -2,7 +2,7 @@
 
 > A data science web app that lets users upload CSV health datasets, automatically analyze the data, generate insights, and visualize key patterns using AI.
 
-![screenshot](banner.png)
+![screenshot](static/banner.png)
 
 ## 🚀 Overview
 
